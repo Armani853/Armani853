@@ -31,7 +31,7 @@ Currently looking for **Product Engineer / Backend Intern / Junior Backend** opp
 ## 🚀 Featured Projects
 
 * **[Telegram Audio Transcriber](https://github.com/Armani853/Telegram-audio-transcriber)** — Telegram bot for voice-to-text via **Groq Whisper API**. Worked with real-world constraints: RAM limits, API timeouts, proxy/network issues, logging, and deployment on **Amvera** and **Cloud.ru VM**.
-* **[CSKA Tribune AI](https://github.com/Armani853/CSKA-Tribune-Ai)** — Product prototype for AI-generated stadium fan performances. Integrated **Chroma vector DB** and chunking for context generation, developed the backend demo flow, data export logic, and product packaging.
+* **[CSKA Tribune AI](https://github.com/Armani853/CSKA-Tribune-Ai)** — Product prototype for AI-generated stadium fan performances. Developed the backend demo flow, data export logic, and product packaging.
 * **[AI Wellness Quest](https://github.com/Armani853/AI-Wellness-Quest)** — Wellness product prototype focused on gamification, daily user loops, progress visualization, and engagement mechanics.
 * **[Team Finder](https://github.com/Armani853/team-finder-ad)** — Django backend project with models, forms, views, pagination, selectors/utils, authentication logic, and code review architectural improvements.
 
