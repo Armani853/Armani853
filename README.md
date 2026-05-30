@@ -40,10 +40,13 @@ Currently looking for **Product Engineer / Backend Intern / Junior Backend** opp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armani853&show_icons=true&theme=radial&count_private=true" alt="Arman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armani853&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Armani853&show_icons=true&theme=radial&count_private=true&hide_border=true" alt="Arman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armani853&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armani853&theme=radial&hide_border=true" alt="Arman's GitHub Streak" width="97%" />
+</p>
 ---
 
 ## 📬 Connect with me
